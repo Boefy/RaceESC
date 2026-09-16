@@ -16,12 +16,21 @@ Features:
 CAD:
 - Simple 2 part enclosure held together with 4 M2x10mm screws
 - looks super cool
+
+
+
 <img width="613" height="589" alt="CAD" src="https://github.com/user-attachments/assets/e313463c-4ae9-483d-b8ac-e9458d1f49c3" />
 
 
 Wiring Diagram:
-Front:<img width="613" height="589" alt="Top side wiring diagram" src="https://github.com/user-attachments/assets/a781df4f-d5a6-4790-98a0-1715633f9ebe" />
-Back:<img width="613" height="589" alt="Bottom side wiring diagram" src="https://github.com/user-attachments/assets/01927186-27c0-4c1c-b4d3-2fb928d1cbfb" />
+Front:
+
+
+<img width="613" height="589" alt="Top side wiring diagram" src="https://github.com/user-attachments/assets/a781df4f-d5a6-4790-98a0-1715633f9ebe" />
+Back:
+
+
+<img width="613" height="589" alt="Bottom side wiring diagram" src="https://github.com/user-attachments/assets/01927186-27c0-4c1c-b4d3-2fb928d1cbfb" />
 
 
 
