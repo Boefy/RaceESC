@@ -1,5 +1,5 @@
 # RaceESC
-Custom 2S ESC (for ~1/10 scale RC cars) with I2C, TCS, ABS and more! RaceESC is a compact, lightweight, 40A capable esc  with an I2C connector for other projects (telemetry, etc). This esc will support two way communication with a host microcontroller over i2c, 
+Custom 4 layer 2S ESC (for ~1/10 scale RC cars) with I2C, TCS, ABS and more! RaceESC is a compact, lightweight, 40A capable esc  with an I2C connector for other projects (telemetry, etc). This esc will support two way communication with a host microcontroller over i2c, 
 allowing telemetry to be shared with it. The ESC will run am32 firmware, with traction control and abs built in, however connecting to a host MCU with an IMU, or a standalone I2C IMU, the ESC can more accurately react to slips using a PID controller.
 
 Features:
